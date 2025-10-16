@@ -1,2 +1,3 @@
 # my-first-codes
-this is my first git repository
+This is my first git repository
+Author-Hareram prasad
